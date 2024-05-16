@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>1049938272173-1h7nl14uii8iaj6l7tu1m2sq6gej825s.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.1049938272173-1h7nl14uii8iaj6l7tu1m2sq6gej825s</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>1049938272173-00ikp8dq9cjb0b0thpndgrt163jk8sua.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyD0BhqTnkh5PBc0S_vWi6oN6wZhA6xUFwE</string>
+	<key>GCM_SENDER_ID</key>
+	<string>1049938272173</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.example.hypeeContentCreator</string>
+	<key>PROJECT_ID</key>
+	<string>hypee-ffbed</string>
+	<key>STORAGE_BUCKET</key>
+	<string>hypee-ffbed.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:1049938272173:ios:caa4cde045c61260500b24</string>
+</dict>
+</plist>

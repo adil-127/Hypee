@@ -1,0 +1,82 @@
+{
+  "project_info": {
+    "project_number": "1049938272173",
+    "project_id": "hypee-ffbed",
+    "storage_bucket": "hypee-ffbed.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1049938272173:android:6bbe74dfa8f6de6a500b24",
+        "android_client_info": {
+          "package_name": "com.example.hypee"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1049938272173-gr09h0i938u6un38tgp50s4fp8pvjhov.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDvbZuoVygFxCaIxOhuODmfrKbPIK2LHtM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1049938272173-gr09h0i938u6un38tgp50s4fp8pvjhov.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1049938272173-0i20051ak3jopm3ul85qh4q3ls47tpm5.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.editorApp"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1049938272173:android:b40ccd14a490cdb9500b24",
+        "android_client_info": {
+          "package_name": "com.example.hypee_content_creator"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1049938272173-gr09h0i938u6un38tgp50s4fp8pvjhov.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDvbZuoVygFxCaIxOhuODmfrKbPIK2LHtM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1049938272173-gr09h0i938u6un38tgp50s4fp8pvjhov.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1049938272173-0i20051ak3jopm3ul85qh4q3ls47tpm5.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.editorApp"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
